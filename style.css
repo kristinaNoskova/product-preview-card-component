@@ -137,5 +137,5 @@ body {
 	margin-right: 10px;
 	width: 15px;
 	height: 16px;
-	background: url('../images/icon-cart.svg') no-repeat center left;
+	background: url('./images/icon-cart.svg') no-repeat center left;
 }
