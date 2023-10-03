@@ -129,6 +129,12 @@ body {
 	border-radius: 7px;
 	background-color: hsl(158, 36%, 37%);
 	color: hsl(0, 0%, 100%);
+	transition: all 0.2s linear;
+}
+
+.perfume__btn:hover,
+.perfume__btn:hover {
+	background-color: hsl(212, 21%, 14%);
 }
 
 .perfume__btn::before {
